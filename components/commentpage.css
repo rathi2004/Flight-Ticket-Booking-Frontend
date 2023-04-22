@@ -1,0 +1,52 @@
+.feedback1{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: antiquewhite;
+   
+}
+#feedbox8{
+    margin-left: 25%;
+    margin-right: 25%;
+    color:black;
+    margin-top: 12%;
+}
+#feedsan{
+    
+    position: absolute;
+}
+.feedtop{
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing:1ch;
+    background-color:gray;
+}
+.feedtop1{
+    color:white;
+    font-size:1cm;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.feedtop2{
+    font-size:19px;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#feedinput{
+    height: 60px;
+    width: 90%;
+    font-size: 15px;
+    text-align: center;
+}
+#feedinput1{
+    height: 40px;
+    width: 90%;
+    font-size: 15px;
+    text-align: center;
+}
+#feedbutton{
+    text-align: center;
+    color:white;
+    background-color: skyblue;
+    
+}

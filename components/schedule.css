@@ -1,0 +1,33 @@
+.table5{
+    width: 80%;
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+   
+}
+.r10{
+    background-color:rgb(113, 186, 215);
+    height:1.5cm;
+    font-size: x-large;
+}
+.r101{
+    height: 1cm;
+}
+.r102{
+    background-color:rgb(115, 247, 245);
+    height: 1cm;
+}
+.head5{
+    width: 40cm;
+}
+.arrow5{
+    padding-top: 10px;
+    height: 48px;
+    padding-left: 15px;
+}
+.aa5{
+    text-align: center;
+}
+.secback{
+    background-color:rgb(113, 186, 215);
+}

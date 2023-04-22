@@ -1,0 +1,58 @@
+#cc1{
+    opacity: 0.5;
+    background-size: cover;
+    height: 127vh;
+    width:199.91vh;
+    position: absolute;
+}
+.seattop{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing:1ch;
+}
+#healthf{
+    
+    text-align: center;
+    position: absolute;
+}
+.seattop1{
+    color: black;
+    font-size:1cm;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.seattop2{
+    font-size:19px;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.seattop3{
+    font-size:19px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#seatbox1{
+    font-size: 0.7cm;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#healthinfo{ 
+    font-size: 100%;
+}
+#health1{
+    text-align: center;
+    background-color:white;
+    margin-left: 18%;
+}
+#health2{
+    text-align: center;
+    background-color:white;
+}
+#health3{
+    text-align: center;
+    background-color:white;
+    margin-right: 18%;
+    
+}
+    
+   

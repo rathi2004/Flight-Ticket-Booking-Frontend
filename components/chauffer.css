@@ -1,0 +1,53 @@
+#seati{
+    background-image:url(https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/110289/ioniq-interior-rear-row-centre-arm-rest.jpeg?isig=0&q=75);
+    background-repeat: no-repeat;
+    height: 450px;
+    width: 1100px;
+}
+#seatq{
+    padding-top: 16%;
+    padding-left: 7%;
+    line-height: 1.4;
+    letter-spacing: 4px;
+    font-style: normal;
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+#seatq1{
+    font-size: 1.1cm;
+    font-style:normal;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    text-shadow: 2px 2px 0 rgb(0 0 0 / 50%);
+
+}
+#seathead{
+    font-size:28px;
+}
+#seats{
+    font-size: 16px;
+}
+#dialogtab{
+    margin-left: 26%;
+    margin-top: 1%;
+}
+.dialogone{
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+    text-align: center;
+}
+#dialoglable{
+    font-size: 20px;
+    font-style:normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#dialogfull{
+    background-color: antiquewhite;
+}
+
+#seatbutton{
+    margin-left: 42%;
+    margin-top: 2%;
+}

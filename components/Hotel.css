@@ -1,0 +1,58 @@
+.pichotel{
+    position:absolute;
+    margin-top: 12%;
+    color:rgb(255, 254, 254);
+    text-align: center;
+    margin-left: 8%;
+    margin-right: 10%;
+    
+   
+}
+#fhotel{
+    background-color: rgba(197, 15, 15, 0.996);
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    height: 6ch;
+    border-radius: 0.5ch;
+}
+.pictypehotel{
+    position: absolute;
+    margin-top: 1%;
+    padding-left: 16%;
+}
+#trip5{
+    letter-spacing:0.5ch;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.4;
+    letter-spacing: 4px;
+    text-align: center;
+}
+#trip6{
+    font-size: 1.2cm;
+    font-style:normal;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    text-shadow: 2px 2px 0 rgb(0 0 0 / 50%);
+}
+#trip7{
+    font-size:0.5cm;
+    font-weight: 400;
+}
+.Hotels{
+    margin-top: 35%;
+    text-align: center;
+    margin-left: 12%;
+    margin-right: 6%;
+    text-align: center;
+    
+}
+.whyhotel{
+    font-size:0.7cm;
+    font-weight: 400;
+}
+#circle{
+    border-radius: 200%;
+}

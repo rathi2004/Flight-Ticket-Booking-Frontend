@@ -1,0 +1,106 @@
+.app {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    background-image: url(https://images.unsplash.com/photo-1436491865332-7a61a109cc05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.leftside{
+  position: absolute;
+  left:10%;
+  top:25%;
+}
+#un,#ps{
+  height: 40px;
+  width:300px;
+  background-color: ghostwhite;
+}
+#journey{
+  font-size: 65px;
+  color: white;
+ font-style: italic;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#rem{
+  padding-left: 20%;
+}
+label{
+  font-size: 20px;
+}
+#btn{
+  margin-left: 40%;
+}
+#flight{
+  font-size: 65px;
+  color: white;
+  font-style:italic;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+#account{
+  margin-top: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  border: 1px solid #64a5bb;
+  color: #fff;
+  margin-left: 25%;
+}
+  button {
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    border: 1px solid #64a5bb;
+    color: #fff;
+    padding: 10px 20px;
+    margin-left: 35%;
+  }
+  #dragon{
+
+    font-size: 90px;
+  }
+  h2{
+    font-size: 40px;
+    font-style: italic;
+  }
+  #ca{
+    text-decoration: none;
+    color:white;
+  }
+  .quote{
+    padding-bottom: 30%;
+    padding-left: 45%;
+  }
+  .login-form {
+    position: absolute;
+    right:10%;
+    top:40%;
+    padding: 4rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .list-container {
+    display: flex;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+  }
+  
+  .title {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  
+  .input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 10px;
+  }

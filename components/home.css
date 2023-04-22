@@ -1,0 +1,25 @@
+.down{
+    background-color:skyblue;
+}
+#first{
+    text-align: center;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+}
+#sec{
+    padding-top: 1%;
+    text-align: center;
+    font-size: 18px;
+    font-style: italic;
+    color:whitesmoke;
+    font-family:cursive;
+}
+#last{
+    padding-top: 1%;
+    text-align: center;
+    font-size: 30px;
+    font-style:normal;
+    color:lightcoral;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}

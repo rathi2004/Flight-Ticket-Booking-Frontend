@@ -1,0 +1,57 @@
+#grab30
+{
+    height:80px;
+    text-align: center;
+    padding-top: 20px;
+    background-color:whitesmoke;
+    color:green;
+    font-size:x-large;
+}
+#copied30
+{
+    height:450px;
+    background-color:white;
+    text-align: center;
+    padding-top: 3%;
+    
+}
+#iconcolor30{
+    background-color:green ;
+   margin-left: 1100%;
+    
+
+}
+#text30
+{
+    text-align: center;
+}
+#ccode30
+{
+   align-content: space-between;
+   height:45px;
+   width: 100px;
+   margin-top: 30px;
+   color: black;
+}
+#back30
+{
+    text-align: center;
+    color:blue;
+    
+}
+#rotate30
+{
+    margin-top: 25px;
+}
+#booknow30:hover
+{
+    background-color: rgb(217, 240, 240);
+   
+}
+#booknow30
+{
+    margin-top: 1%;
+}
+#Bca{
+    text-decoration: none;
+}

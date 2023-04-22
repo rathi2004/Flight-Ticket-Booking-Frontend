@@ -1,0 +1,72 @@
+#armyi{
+    width: 25%;
+    margin-left: 38%;
+    border-radius: 70%;
+}
+#childi{
+    width: 25%;
+    margin-left: 38%;
+    border-radius: 30%;
+}
+#newi{
+    width: 25%;
+    margin-left: 38%;
+    border-radius: 10%;
+}
+#domestici{
+    width: 35%;
+    margin-left: 38%;
+    border-radius: 10%;
+}
+#coupona{
+    text-align: center;
+    background-color: rgb(197, 241, 184);
+}
+#coupone{
+    text-align: center;
+    background-color: rgb(250, 200, 208);
+}
+#coupons{
+    text-align: center;
+    background-color:rgb(180, 220, 236);
+}
+#couponn{
+    text-align: center;
+    background-color:rgb(218, 238, 139);
+}
+#coupond{
+    text-align: center;
+    background-color:rgb(154, 221, 194);
+}
+#coupono{
+    text-align: center;
+    background-color:rgb(228, 143, 228);
+}
+#coupon10{
+    text-align: center;
+    background-color:rgb(160, 236, 161);
+}
+#couponh{
+    text-align: center;
+    background-color:rgb(221, 165, 126);
+}
+#couponbutton{
+    color: black;
+    margin-top: 5%;
+    
+}
+#couponinfo{
+    margin-top: 5%;
+    font-size: 110%;
+}
+#couponhead{
+    font-size: 0.8cm;
+}
+#t2{
+
+    padding-top: 60%;
+}
+#t3{
+
+    padding-top: 60%;
+}

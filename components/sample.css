@@ -1,0 +1,59 @@
+#couponstack1{
+    height:120px;
+    padding-left: 4%;
+}
+.couponimg{
+    position: absolute;
+}
+#couponoff{
+    font-size: 0.8cm;
+    margin-top: 3%;
+    
+}
+#couponoff2{
+    font-size: 0.5cm;
+
+}
+#couponbtn3{
+    background-color: rgb(46, 156, 200);
+}
+#couponline{
+    color:gray;
+}
+#tickcol{
+    color: lightgreen;
+    margin-top: 10%;
+}
+#coupontypo{
+    width:60%;
+}
+
+.picoffer{
+    position:absolute;
+    margin-top: 13%;
+    color:rgb(255, 254, 254);
+    text-align: center;
+    margin-left: 60%;
+    margin-right: 5%;
+}
+#offer1{
+    letter-spacing:0.5ch;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.4;
+    letter-spacing: 4px;
+    text-align: center;
+}
+#offer2{
+    font-size: 1.2cm;
+    font-style:normal;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    text-shadow: 2px 2px 0 rgb(0 0 0 / 50%);
+}
+#offer3{
+    
+    font-size:0.5cm;
+    font-weight: 500;
+}

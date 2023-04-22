@@ -1,0 +1,64 @@
+#requireback{
+    position: absolute;
+    flex-direction: column;
+    text-align: center;
+    opacity: 1;
+    padding-left: 19%;
+}
+#cc{
+    opacity: 0.2;
+    background-size: cover;
+    height: 91.5vh;
+    width:202.1vh;
+    position: absolute;
+}
+.reqtop{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing:1ch;
+}
+.reqtop1{
+    color: black;
+    font-size:1.5cm;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+    
+.reqtop2{
+    color: black;
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1.4rem;
+}
+.reqtop3{
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+.reqtopc{
+    background-color:lightyellow;
+    font-size: 0.5cm;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+}
+.reqtop4{
+    color: black;
+    font-size:1cm;
+    font-style: italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.reqtop5{
+    color: black;
+    font-size:0.8cm;
+    font-size:18px;
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+}
+.reqtop6{
+    color: black;
+    font-size:0.8cm;
+    font-size:18px;
+    font-family:'Times New Roman', Times, serif;
+    
+}

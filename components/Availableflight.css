@@ -1,0 +1,90 @@
+.content1
+{
+    height: 2.6cm;
+    text-align: center;
+}
+.aa
+{
+    text-align: center;
+    padding-top: 0.5cm;
+}
+.aa2
+{
+    text-align: center;
+}
+.aa3
+{
+    text-align: center;
+    padding-top: 0.2cm;
+}
+.text
+{
+    font-size:x-large;
+    font-family:fantasy;
+}
+.text2
+{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.text3
+{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+.text4
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.aa4{
+    margin-left:50px;
+    padding-top: 0.3cm;
+   
+}
+
+.text5
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+.text6
+{
+    color: red;
+}
+.text7
+{
+    font-family:monospace;
+}
+.text8
+{
+    color: green;
+}
+.text9
+{
+    color: blue;
+}
+.head7
+{
+    font-size: xx-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color:rgb(46, 156, 200);
+    padding-left: 2cm;
+}
+#availback{
+    font-size: xx-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: rgb(46, 156, 200);
+    padding-left: 0.5cm;
+}
+
+.btn2
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 1cm;
+    width: 4cm;
+    margin-top: 35%;
+    background-color: rgb(46, 156, 200);
+    color: white;
+    font-size: large;
+    margin-left: 50%;
+}
